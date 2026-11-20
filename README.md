@@ -152,6 +152,8 @@ Cada equipo deberá incluir obligatoriamente en `05_entrega_final/reporte-final.
    * Ejecución de scripts y pruebas unitarias desde **VS Code / DBeaver** mostrando los outputs de estados `200`, `400` y `500`.
    * Pruebas de aislamiento de metadatos (captura del explorador de objetos conectado con un usuario de área mostrando la ceguera lógica de los demás esquemas).
    * Evidencia de la generación física de archivos `.bak` / `.trn` y la restauración exitosa tras el borrado simulado.
+   * Rol de los integrantes que hicieron del proyecto
+   * Conclusiones individuales y una general sobre el proceso de administración de una base de datos
 
 ---
 
