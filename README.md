@@ -1,7 +1,7 @@
 # 🏆 Proyecto Integrador: Administración de Bases de Datos
 
-**Valor Total:** 40 Puntos (40% de la calificación final)  
-**Modalidad:** Equipos de 2 a 3 integrantes  
+**Valor Total:** 40 Puntos  
+**Modalidad:** Equipos 5 integrantes  
 **Entorno:** SQL Server 2022 (Docker / Local) + Control de Versiones en Git (GitHub / GitLab)  
 **Base de Datos:** `AdventureWorks2014`
 
